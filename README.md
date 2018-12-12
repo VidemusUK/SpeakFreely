@@ -16,6 +16,8 @@ The mission statement should be very clear:
 
 * the final product will allow, at the very least:
 
+* access to standard services but also access to emergency "bluetooth or wifi clusters" - maintaining communication with others without necessarily requiring the Telecommunications Companies nor Local Service Providers
+
 * normal telephone calls to other phones
 * telephone calls to similar devices, the contents of which are (to date) mathematically indecipherable
 
