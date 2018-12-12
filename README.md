@@ -1,5 +1,5 @@
 # SpeakFreely
-An open-source hardware and open-source software mobile communications unit, aiming at usability, privacy and a modular design
+"An open-source hardware and open-source software mobile communications unit, aiming at usability, privacy and a modular design"
 
 It is becoming increasingly more important and increasingly difficult to find a way of communicating in private.
 
@@ -12,11 +12,12 @@ The mission statement should be very clear:
 * the final product should cost less than $100 US
 * the final product will have no proprietary hardware anyway within it
 * the final product will have no proprietary software within it - especially drivers
-* the final product will allow those with similar products to communicate securly with all the benefits of "off the record" communication
+* the final product will allow those with similar products to communicate securely with all the benefits of "off the record" communication
+
 * the final product will allow, at the very least:
 
 * normal telephone calls to other phones
-* telephone calls to similar devices the contents of which are (to date) mathematically indecipherable
+* telephone calls to similar devices, the contents of which are (to date) mathematically indecipherable
 
 * normal sms / text messages to other phones
 * sms / text messages to similar devices, again using the best maths on the planet to secure it
@@ -31,7 +32,7 @@ The mission statement should be very clear:
 
 * encrypted storage space such as that provided (alledgedly by TrueCrypt and VeraCrypt)
 
-* full disk encryption
+* full disk encryption, instant kill switch
 
 * physical switches / hardware disconnecting all peripherals - including microphones, cameras, gps', bluetooth chips, GPRS', power supplies and speakers
 
@@ -39,7 +40,7 @@ The mission statement should be very clear:
 
 * a soundcard capabale of ensuring it's better for listening to music than any similar device
 
-* a functional touch-screen also allowing wtaching of videoin hi-resolution
+* a functional touch-screen also allowing recoring / watching of video / photos in hi-resolution
 
 * an off-the-shelf, replaceable battery supply meaning that if you need multiple batteries, you can buy them at a low retail price and swap them over when needed
 
@@ -48,3 +49,7 @@ The mission statement should be very clear:
 * ability to install tools such as calculators, calendars, games within a "fenced off" area of the phone such that any security risks are contained
 
 * instructions allowing a child or a patient adult to build one with little or no knowledge of electronic, programming, telephones, security or why their government has been caught many, many times "scooping" huge amounts of their data, without explanation.
+
+* simple, usable instructions very clearly outlining to the user 1) whether ot not a secure communication channel is open to the other party(ies), 2) how to connect via than channel and 3) how to ensure that channel is not being eavsdropped upon.
+
+In terms of usability - it's paramount that the user should not "blindly trust" the device but that the software used should be so well-written that users feel free to commuicate via device again - confident that only those they already  trust can understand and respond.
